@@ -88,9 +88,6 @@ My public projects span web and mobile applications, including a digital library
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeQuangVinh11022004&theme=one_dark_pro&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/LeQuangVinh11022004)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeQuangVinh11022004&theme=one_dark_pro&hide_border=true&layout=compact)](https://github.com/LeQuangVinh11022004)
-
 [![GitHub streak](https://streak-stats.demolab.com?user=LeQuangVinh11022004&theme=one_dark_pro&hide_border=true)](https://github.com/LeQuangVinh11022004)
 
 </div>
