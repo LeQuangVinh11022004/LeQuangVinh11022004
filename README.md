@@ -15,7 +15,6 @@ My public projects span web and mobile applications, including a digital library
 | [Film Photo Platform — Web](https://github.com/LeQuangVinh11022004/film-photo-platform-web) | Web portal for film photography services, with provider and administrator workflows. | Next.js · React · TypeScript|
 | [Film Photo Platform — Mobile](https://github.com/LeQuangVinh11022004/film-photo-platform-mobile) | Flutter app for bookings, expert consultations, and film-photography community features. | Flutter · Dart · ASP.NET Core |
 | [MyLibrary](https://github.com/LeQuangVinh11022004/MyLibrary) | Cloud-backed library to organize books, read documents, and sync reading progress. | React · Supabase|
-| [LandingPage_EXE201](https://github.com/LeQuangVinh11022004/LandingPage_EXE201) | React landing page project. | JavaScript|
 
 ## 💻 Technologies used in my projects
 
