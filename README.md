@@ -13,7 +13,7 @@
 | [MyLibrary](https://github.com/LeQuangVinh11022004/MyLibrary) | Cloud-backed library to organize books, read documents, and sync reading progress. | React · Supabase|
 | [KMS-Backend](https://github.com/LeQuangVinh11022004/KMS-Backend) | Kindergarten Management System | C# · Supabase · ASP.NET Core|
 | [Learning-Management-System](https://github.com/LeQuangVinh11022004/Learning-Management-System) | Web-based learning platform | JavaScript · ReactJS · Vite|
-| [Milk Shop](https://github.com/LeQuangVinh11022004/EXE201) |  Experiential Entrepreneurship E-commerce Project (school project) - Milk Shop | C# · Supabase · ASP.NET Core|
+| [Milk Shop](https://github.com/LeQuangVinh11022004/EXE201) |  Experiential Entrepreneurship E-commerce Project (school project) - Milk Shop | Flutter · Dart|
 
 ## 💻 Technologies used in my projects
 
